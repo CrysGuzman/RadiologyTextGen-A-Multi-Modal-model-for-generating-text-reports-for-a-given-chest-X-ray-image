@@ -1,5 +1,11 @@
 # RadiologyTextGen-A-Multi-Modal-model-for-generating-text-reports-for-a-given-chest-X-ray-image
 
+#### Team
+Abdul Moid Mohammed, ID: 2118889, amoha108@depaul.edu
+Ayesha Sajid Ali, ID: 2069184, aali111@depaul.edu
+Christopher Frary, ID: 2107107, cfrary@depaul.edu
+Crystal A Guzmán, ID: 0748072, cguzma17@depaul.edu 
+
 #### Data
 Data: https://openi.nlm.nih.gov/faq#collection
 Our dataset contains 3996 radiology reports and 8121 associated X ray images.
